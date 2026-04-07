@@ -34,6 +34,7 @@ Mixture-of-Experts Multi-View Large Vision-Language Models for Multimodal Fake N
 </div>
 </div>
 
+- **Guofan Liu**, Yannan Sun, Qiang Liu, Xiaolong Zhang, Zhe Zhao, Junfei Wu, Shu Wu, Liang Wang. Mixture-of-Experts Multi-View Large Vision-Language Models for Multimodal Fake News Detection. IEEE Transactions on Multimedia (CCF-A), 2026.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
