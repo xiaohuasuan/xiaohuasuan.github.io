@@ -24,17 +24,16 @@ My research interest includes recommendation systems and multimodal fake news de
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Mixture-of-Experts Multi-View Large Vision-Language Models for Multimodal Fake News Detection.
+Mixture-of-Experts Multi-View Large Vision-Language Models for Multimodal Fake News Detection. IEEE Transactions on Multimedia (CCF-A), 2026.
 
 **Guofan Liu**, Yannan Sun, Qiang Liu, Xiaolong Zhang, Zhe Zhao, Junfei Wu, Shu Wu, Liang Wang
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
