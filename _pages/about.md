@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes recommendation systems and multimodal fake news detection. 
+My research interest includes multimodal large language models and multimodal tasks. 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper has been accepted for publication in IEEE Transactions on Multimedia. 
